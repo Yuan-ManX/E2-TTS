@@ -1,7 +1,7 @@
 # E2 TTS PyTorch
 
 <p align="center">
-  <img src="E2 TTS.png" alt="E2 TTS" style="display:block; margin:auto; width:680px;" />
+  <img src="E2 TTS.png" alt="E2 TTS" style="display:block; margin:auto; width:720px;" />
 </p>
 
 PyTorch implementation of E2 TTS.
