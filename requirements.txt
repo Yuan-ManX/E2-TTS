@@ -1,0 +1,17 @@
+torch>=2.0
+torchdiffeq
+torchaudio>=2.3.1
+tqdm>=4.65.0
+accelerate>=0.33.0
+adam-atan2-pytorch>=0.1.12
+beartype
+einops>=0.8.0
+einx>=0.3.0
+ema-pytorch>=0.5.2
+g2p-en
+jaxtyping
+loguru
+pydantic<2
+tensorboard
+vocos
+x-transformers>=1.42.23
